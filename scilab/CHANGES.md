@@ -1,4 +1,4 @@
-Welcome to Scilab 6.0.0
+Welcome to Scilab 6.0.0 pull request
 =======================
 
 This file details the changes between Scilab 6.0.0 (this release), and the previous release 5.5.2.
